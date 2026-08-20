@@ -22,15 +22,11 @@
 **TrustedPay** — live on Google Play
 Built with Kotlin, integrating Firebase for backend services and RESTful APIs.
 
----
-
-### 📊 GitHub Stats
-
-![Kim Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akakimanh&show_icons=true&theme=default)
+ GitHub stats](https://github-readme-stats.vercel.app/api?username=akakimanh&show_icons=true&theme=default)
 
 ---
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anh-le-62912028b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://akakimanh.github.io/Portfolio/)
